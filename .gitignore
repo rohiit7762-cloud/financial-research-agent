@@ -13,6 +13,15 @@ build/
 .env
 *.env.local
 
+# Private Interview & Internal Study Notes (Local Only - Not on GitHub)
+docs/TECHNICAL_NOTES.md
+docs/AGENT_WORKFLOW.md
+docs/DECISIONS.md
+docs/INTERVIEW_PREP.md
+docs/LEARNING_CHECKLIST.md
+docs/PROJECT_LOG.md
+docs/RAG.md
+
 # IDE & OS Files
 .vscode/
 .idea/

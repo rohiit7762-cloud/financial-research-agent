@@ -188,17 +188,12 @@ Test Breakdown:
 
 ## 7. Complete Documentation Suite
 
-All comprehensive technical guides for placement preparation are available in the [`docs/`](docs/) directory:
+All core architectural and design specifications are available in the [`docs/`](docs/) directory:
 
 - [**`docs/PROJECT_OVERVIEW.md`**](docs/PROJECT_OVERVIEW.md) — Scope, problem statement, features, and boundary conditions.
 - [**`docs/ARCHITECTURE.md`**](docs/ARCHITECTURE.md) — Component breakdown, ASCII diagrams, data flows, and failure containment.
-- [**`docs/TECHNICAL_NOTES.md`**](docs/TECHNICAL_NOTES.md) — 7-point breakdowns for 19 core AI and system engineering concepts.
-- [**`docs/AGENT_WORKFLOW.md`**](docs/AGENT_WORKFLOW.md) — ReAct loop mechanics, state schemas, and step-by-step trace walkthroughs.
-- [**`docs/RAG.md`**](docs/RAG.md) — 12-stage RAG pipeline, embedding math, chunk overlap, and RAG vs fine-tuning.
-- [**`docs/DECISIONS.md`**](docs/DECISIONS.md) — Architectural Decision Records (ADRs) with 60-second interview defenses.
-- [**`docs/PROJECT_LOG.md`**](docs/PROJECT_LOG.md) — Chronological development diary tracking implementation milestones.
-- [**`docs/INTERVIEW_PREP.md`**](docs/INTERVIEW_PREP.md) — **The Master Revision Guide** (30s/1m/2m pitches, technical Q&A, and tricky interview traps).
-- [**`docs/LEARNING_CHECKLIST.md`**](docs/LEARNING_CHECKLIST.md) — Self-assessment preparation checklist across all concepts.
+
+*(Note: In-depth private interview preparation notes, 19-concept technical breakdowns, and personal evaluation logs are maintained locally by the author for placement defense).*
 
 ---
 
