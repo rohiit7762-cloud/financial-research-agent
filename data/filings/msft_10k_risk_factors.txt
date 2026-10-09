@@ -1,0 +1,19 @@
+# MICROSOFT CORPORATION
+# FORM 10-K (ANNUAL REPORT) — ITEM 1A. RISK FACTORS
+# Fiscal Year Ended June 30, 2024
+# SEC Filing Accession No. 0000950170-24-087843
+# SEC EDGAR URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm
+
+ITEM 1A. RISK FACTORS
+
+Risks Related to Cloud Infrastructure Scale, High Capital Expenditures, and AI Investments
+
+Our strategic growth depends upon the aggressive expansion of Microsoft Cloud, Microsoft Azure, and generative artificial intelligence capabilities embedded across Microsoft Copilot and Office 365. Building, operating, and expanding hyperscale data center infrastructure requires massive capital expenditures (CapEx) in real estate, specialized server hardware, GPU accelerators, electricity, and cooling systems. If enterprise demand for cloud computing or generative AI adoption decelerates, our high fixed cost structure and ongoing depreciation expenses could compress operating profit margins. Additionally, power availability and electrical grid capacity constraints in key metropolitan areas may restrict data center construction timelines, delaying customer onboarding and revenue growth.
+
+Risks Related to OpenAI Partnership Dependence and Strategic Alignment
+
+We have established a multi-billion dollar long-term strategic partnership with OpenAI, deploying OpenAI's foundational models across Azure AI infrastructure and consumer offerings. Our future product differentiation relies significantly on the continued technological success, safety alignment, and operational stability of OpenAI. If OpenAI experiences leadership volatility, governance disputes, technical stalls in model performance, cybersecurity breaches, or legal encumbrances concerning training data copyright infringement, our reputation and competitive advantage in generative AI could be compromised. While we maintain intellectual property licensing rights, disputes regarding exclusivity, revenue-sharing, or commercialization boundaries could harm our business.
+
+Risks Related to Cybersecurity Incidents, Cloud Outages, and Nation-State Attacks
+
+As a leading enterprise cloud provider and software platform, our infrastructure is continuously targeted by sophisticated cyberattacks, including nation-state actors (such as Midnight Blizzard and Storm-0558). Cyber intrusions targeting identity management systems, Microsoft Exchange, or Azure multi-tenant infrastructure can lead to the exfiltration of confidential customer data, intellectual property theft, or widespread service outages. Material security breaches impair customer trust, expose the company to substantial regulatory fines under GDPR and US federal regulations, and necessitate extensive remediation expenditures.

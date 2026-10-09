@@ -1,0 +1,19 @@
+# TESLA, INC.
+# FORM 10-K (ANNUAL REPORT) — ITEM 1A. RISK FACTORS
+# Fiscal Year Ended December 31, 2023
+# SEC Filing Accession No. 0001628280-24-002390
+# SEC EDGAR URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm
+
+ITEM 1A. RISK FACTORS
+
+Risks Related to Intense Automotive Price Competition and Gross Margin Compression
+
+The global electric vehicle (EV) market has transitioned into an environment of aggressive price competition, particularly in mainland China and Europe, driven by established legacy automakers (e.g. Volkswagen, BYD, Hyundai) and domestic pure-play EV manufacturers. In response to competitive pressures and macroeconomic interest rate increases, we have enacted substantial price reductions across our Model 3, Model Y, and premium vehicle lines. These price cuts have compressed automotive gross margins excluding regulatory credits. If market competition intensifies or consumer purchasing power remains constrained, we may be forced to lower vehicle prices further or increase sales incentives, diminishing operating income and cash flows.
+
+Risks Related to Autonomous Driving Technology (FSD) and Regulatory Scrutiny
+
+Our long-term financial valuation is heavily dependent upon the commercialization of autonomous driving technologies, including Full Self-Driving (FSD) Supervised and future Robotaxi autonomous networks. Autonomous vehicle software is subject to stringent regulatory scrutiny from the National Highway Traffic Safety Administration (NHTSA), the California Department of Motor Vehicles (DMV), and international transportation safety bodies. Following NHTSA safety investigations concerning Autopilot driver attentiveness, we issued software recalls across more than two million vehicles in the United States. Continued accidents, legal liability from consumer lawsuits, negative publicity, or regulatory delays in permitting fully driverless autonomous operation could severely impair our business model and delayed monetization of autonomous software.
+
+Risks Related to Key Personnel and Reliance on Elon Musk
+
+We are highly dependent on the visionary leadership, services, and strategic direction of our Chief Executive Officer, Elon Musk. Although Mr. Musk spends significant time with Tesla and is highly active in our management, he does not devote his full time and attention to Tesla and possesses substantial management and ownership commitments to external ventures, including SpaceX, X Corp. (formerly Twitter), xAI, Neuralink, and The Boring Company. If Mr. Musk's leadership is curtailed, or if external controversies distract attention or negatively impact consumer brand affinity, our operating performance, recruitment of elite engineering talent, and stock price could be severely harmed.

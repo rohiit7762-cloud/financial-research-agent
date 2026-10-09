@@ -1,0 +1,30 @@
+# Python Environment & Cache
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment Variables & Secrets (CRITICAL)
+.env
+*.env.local
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vector Index Binaries & Large Filings Cache
+# (Keep directory structure but exclude heavy binary dumps)
+data/vector_store/*.faiss
+data/vector_store/*.pkl
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/

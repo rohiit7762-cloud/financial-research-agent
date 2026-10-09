@@ -1,0 +1,19 @@
+# APPLE INC.
+# FORM 10-K (ANNUAL REPORT) — ITEM 1A. RISK FACTORS
+# Fiscal Year Ended September 30, 2023
+# SEC Filing Accession No. 0000320193-23-000106
+# SEC EDGAR URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm
+
+ITEM 1A. RISK FACTORS
+
+Risks Related to Global Supply Chain and Manufacturing Concentration in Asia
+
+The Company's operations, supply chain, and retail distribution network depend heavily on outsourced manufacturing partners located outside the United States, predominantly in the People's Republic of China, India, and Vietnam. A substantial majority of the Company's final hardware assembly for iPhone, iPad, Mac, and Apple Watch is performed by independent contract manufacturers, including Hon Hai Precision Industry Co., Ltd. (Foxconn), Pegatron, and Wistron, at manufacturing campuses in mainland China. Any disruption at these facilities—arising from geopolitical friction between the US and China, public health emergencies, regional power rationing, labor disputes, or trade tariffs—can materially restrict product supply during critical holiday launch windows. Furthermore, single-source component dependencies exist for specialized silicon components fabricated by TSMC in Taiwan, display panels sourced from Samsung Display and LG Display, and camera sensors. Any inability of these suppliers to maintain volume yields would impair quarterly revenues.
+
+Risks Related to Antitrust Scrutiny, App Store Regulation, and Legal Compliance
+
+The Company's App Store business model and Services segment face unprecedented regulatory, antitrust, and legislative headwinds across multiple jurisdictions, including the European Union, the United States, Japan, and South Korea. In the European Union, the Digital Markets Act (DMA) designates the Company as a "gatekeeper" and mandates structural modifications to iOS, including permitting third-party alternative app marketplaces, browser engine alternatives, and out-of-app payment processing systems. In the United States, the Department of Justice (DOJ) alongside state attorneys general has filed antitrust litigation alleging exclusionary conduct in smartphone operating systems. Compliance with these regulatory mandates reduces the Company's commission rates on digital transactions, increases cybersecurity exposure, and could negatively impact Services gross margins and operating cash flows.
+
+Risks Related to Intellectual Property Litigation and Patent Encumbrances
+
+The Company relies heavily on proprietary software, hardware engineering designs, trade secrets, and patented technologies to differentiate its ecosystem. The Company is subject to frequent patent infringement claims from competitors and non-practicing entities (NPEs). Adverse legal rulings, such as the International Trade Commission (ITC) import ban regarding pulse oximetry technology in certain Apple Watch models, have required hardware reconfigurations or product withdrawal from the US market. Continued intellectual property litigation could result in substantial licensing royalties, product redesign costs, or injunctions barring importation of major product lines.

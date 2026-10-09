@@ -1,0 +1,23 @@
+# NVIDIA CORPORATION
+# FORM 10-K (ANNUAL REPORT) — ITEM 1A. RISK FACTORS
+# Fiscal Year Ended January 28, 2024
+# SEC Filing Accession No. 0001045810-24-000029
+# SEC EDGAR URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm
+
+ITEM 1A. RISK FACTORS
+
+Risks Related to Our Markets and International Trade
+
+Our business and operating results are highly vulnerable to international geopolitical tensions, trade disputes, and government export control regulations, particularly between the United States and the People's Republic of China. The U.S. Department of Commerce's Bureau of Industry and Security (BIS) has enacted sweeping export control regulations targeting advanced computing semiconductor chips, graphics processing units (GPUs), and semiconductor manufacturing equipment. In October 2022 and updated in October 2023 (the "Interim Final Rule"), the US Government imposed stringent licensing requirements on shipments of our highest-performance data center GPUs, including the A100, H100, A800, and H800 architectures, to China, Macau, Russia, and other countries in regional groups D:1, D:4, and D:5. Historically, sales of products to customers in China represented approximately 20% to 25% of our Data Center segment revenue. While we have developed modified products for these restricted markets, there is no guarantee that the US Government will not further tighten restrictions or prohibit these alternative architectures entirely. Any expanded export controls, licensing denials, or trade retaliations by foreign governments will materially harm our revenue, profitability, and global market position.
+
+Risks Related to Manufacturing, Foundries, and Supply Chain Concentration
+
+We operate as a fabless semiconductor designer and rely entirely on independent third-party foundries to manufacture all our semiconductor wafers. The vast majority of our advanced GPUs and computational architectures are fabricated by a single manufacturing partner, Taiwan Semiconductor Manufacturing Company Limited (TSMC), at its foundries located in Taiwan. If TSMC experiences disruptions, power outages, natural disasters, seismic activity, geopolitical conflicts in the Taiwan Strait, or capacity allocation constraints, our ability to deliver products would be severely compromised. In addition, our high-performance Hopper and Blackwell architecture GPUs require proprietary advanced chip-on-wafer-on-substrate (CoWoS) packaging and high-bandwidth memory (HBM3e) supplied by a concentrated pool of vendors including SK Hynix, Micron, and Samsung. Global shortages of advanced packaging capacity have in the past, and may in the future, constrain our shipping volumes despite surging customer demand. Switching foundries or packaging partners would require years of engineering redesign and substantial capital outlays, which could cause catastrophic delivery delays and customer contract cancellations.
+
+Risks Related to Extreme Market Competition and Hyperscaler In-House Silicon
+
+The market for accelerated computing and artificial intelligence hardware is intensely competitive. We compete directly with established semiconductor manufacturers like Advanced Micro Devices (AMD) and Intel Corporation, as well as emerging specialized AI processor startups. Crucially, our largest cloud service provider (CSP) and hyperscaler customers—including Microsoft, Alphabet (Google), Amazon Web Services (AWS), and Meta Platforms—are actively designing and deploying proprietary custom silicon (ASICs), such as Google TPU, AWS Trainium and Inferentia, and Microsoft Azure Maia 100. While these customers continue to purchase significant volumes of our GPU platforms, their long-term strategic investments in custom accelerators could diminish their reliance on our merchant hardware, contract our gross margins, or reduce our overall market share.
+
+Risks Related to Customer Concentration and Revenue Volatility
+
+A significant portion of our Data Center revenue is concentrated among a small number of hyperscale cloud providers and enterprise software giants. In fiscal year 2024, two direct customers each accounted for 10% or more of total revenue. Any reduction in capital expenditures (CapEx) by these primary hyperscalers, macroeconomic slowdowns in AI infrastructure buildout, or inventory rebalancing cycles could lead to rapid and unexpected decreases in purchase orders for our GPU clusters, leading to sharp revenue volatility and excess inventory charges.
